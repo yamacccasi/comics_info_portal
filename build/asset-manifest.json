@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yamacccasi/yamacccasi.github.io/static/css/main.444e343c.css",
+    "main.js": "/yamacccasi/yamacccasi.github.io/static/js/main.70d83001.js",
+    "static/media/vision.png": "/yamacccasi/yamacccasi.github.io/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/mjolnir.png": "/yamacccasi/yamacccasi.github.io/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/error.gif": "/yamacccasi/yamacccasi.github.io/static/media/error.42292aa12b6bc303ce99.gif",
+    "index.html": "/yamacccasi/yamacccasi.github.io/index.html",
+    "main.444e343c.css.map": "/yamacccasi/yamacccasi.github.io/static/css/main.444e343c.css.map",
+    "main.70d83001.js.map": "/yamacccasi/yamacccasi.github.io/static/js/main.70d83001.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.444e343c.css",
+    "static/js/main.70d83001.js"
+  ]
+}
